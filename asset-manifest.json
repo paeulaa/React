@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/paeulaa/React.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/paeulaa/React.git/static/js/main.48559ef9.chunk.js",
+    "main.js.map": "/paeulaa/React.git/static/js/main.48559ef9.chunk.js.map",
+    "runtime-main.js": "/paeulaa/React.git/static/js/runtime-main.db37f1a0.js",
+    "runtime-main.js.map": "/paeulaa/React.git/static/js/runtime-main.db37f1a0.js.map",
+    "static/js/2.d76081ee.chunk.js": "/paeulaa/React.git/static/js/2.d76081ee.chunk.js",
+    "static/js/2.d76081ee.chunk.js.map": "/paeulaa/React.git/static/js/2.d76081ee.chunk.js.map",
+    "index.html": "/paeulaa/React.git/index.html",
+    "precache-manifest.e2302a0c7096de85406c03ac55cb2baf.js": "/paeulaa/React.git/precache-manifest.e2302a0c7096de85406c03ac55cb2baf.js",
+    "service-worker.js": "/paeulaa/React.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/paeulaa/React.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d76081ee.chunk.js.LICENSE.txt": "/paeulaa/React.git/static/js/2.d76081ee.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/paeulaa/React.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db37f1a0.js",
+    "static/js/2.d76081ee.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.48559ef9.chunk.js"
+  ]
+}
